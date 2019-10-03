@@ -1,6 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Learning Web Dev"
 date: 2019-10-02
 ---
 
-First blog post
+My struggles to learn coding
